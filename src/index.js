@@ -1,6 +1,6 @@
 import React, {propTypes} from 'react';
 import { render } from 'react-dom';
-import './styles/styles.css';
+import './styles/styles.scss';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import '../node_modules/toastr/build/toastr.min.css';
 
